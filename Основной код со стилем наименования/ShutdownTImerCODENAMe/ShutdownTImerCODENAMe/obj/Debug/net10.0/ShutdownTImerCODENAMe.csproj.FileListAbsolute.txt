@@ -1,0 +1,15 @@
+C:\Users\AR\source\repos\ShutdownTImerCODENAMe\ShutdownTImerCODENAMe\bin\Debug\net10.0\ShutdownTImerCODENAMe.exe
+C:\Users\AR\source\repos\ShutdownTImerCODENAMe\ShutdownTImerCODENAMe\bin\Debug\net10.0\ShutdownTImerCODENAMe.deps.json
+C:\Users\AR\source\repos\ShutdownTImerCODENAMe\ShutdownTImerCODENAMe\bin\Debug\net10.0\ShutdownTImerCODENAMe.runtimeconfig.json
+C:\Users\AR\source\repos\ShutdownTImerCODENAMe\ShutdownTImerCODENAMe\bin\Debug\net10.0\ShutdownTImerCODENAMe.dll
+C:\Users\AR\source\repos\ShutdownTImerCODENAMe\ShutdownTImerCODENAMe\bin\Debug\net10.0\ShutdownTImerCODENAMe.pdb
+C:\Users\AR\source\repos\ShutdownTImerCODENAMe\ShutdownTImerCODENAMe\obj\Debug\net10.0\ShutdownTImerCODENAMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AR\source\repos\ShutdownTImerCODENAMe\ShutdownTImerCODENAMe\obj\Debug\net10.0\ShutdownTImerCODENAMe.AssemblyInfoInputs.cache
+C:\Users\AR\source\repos\ShutdownTImerCODENAMe\ShutdownTImerCODENAMe\obj\Debug\net10.0\ShutdownTImerCODENAMe.AssemblyInfo.cs
+C:\Users\AR\source\repos\ShutdownTImerCODENAMe\ShutdownTImerCODENAMe\obj\Debug\net10.0\ShutdownTImerCODENAMe.csproj.CoreCompileInputs.cache
+C:\Users\AR\source\repos\ShutdownTImerCODENAMe\ShutdownTImerCODENAMe\obj\Debug\net10.0\ShutdownTImerCODENAMe.dll
+C:\Users\AR\source\repos\ShutdownTImerCODENAMe\ShutdownTImerCODENAMe\obj\Debug\net10.0\refint\ShutdownTImerCODENAMe.dll
+C:\Users\AR\source\repos\ShutdownTImerCODENAMe\ShutdownTImerCODENAMe\obj\Debug\net10.0\ShutdownTImerCODENAMe.pdb
+C:\Users\AR\source\repos\ShutdownTImerCODENAMe\ShutdownTImerCODENAMe\obj\Debug\net10.0\ShutdownTImerCODENAMe.genruntimeconfig.cache
+C:\Users\AR\source\repos\ShutdownTImerCODENAMe\ShutdownTImerCODENAMe\obj\Debug\net10.0\ref\ShutdownTImerCODENAMe.dll
+C:\Users\AR\source\repos\ShutdownTImerCODENAMe\ShutdownTImerCODENAMe\obj\Debug\net10.0\Shutdown.80CB93E9.Up2Date
