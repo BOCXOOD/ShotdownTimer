@@ -1,0 +1,15 @@
+C:\Users\AR\source\repos\ShutdownTimer\ShutdownTimer\bin\Debug\net10.0\ShutdownTimer.exe
+C:\Users\AR\source\repos\ShutdownTimer\ShutdownTimer\bin\Debug\net10.0\ShutdownTimer.deps.json
+C:\Users\AR\source\repos\ShutdownTimer\ShutdownTimer\bin\Debug\net10.0\ShutdownTimer.runtimeconfig.json
+C:\Users\AR\source\repos\ShutdownTimer\ShutdownTimer\bin\Debug\net10.0\ShutdownTimer.dll
+C:\Users\AR\source\repos\ShutdownTimer\ShutdownTimer\bin\Debug\net10.0\ShutdownTimer.pdb
+C:\Users\AR\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\net10.0\ShutdownTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AR\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\net10.0\ShutdownTimer.AssemblyInfoInputs.cache
+C:\Users\AR\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\net10.0\ShutdownTimer.AssemblyInfo.cs
+C:\Users\AR\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\net10.0\ShutdownTimer.csproj.CoreCompileInputs.cache
+C:\Users\AR\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\net10.0\ShutdownTimer.dll
+C:\Users\AR\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\net10.0\refint\ShutdownTimer.dll
+C:\Users\AR\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\net10.0\ShutdownTimer.pdb
+C:\Users\AR\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\net10.0\ShutdownTimer.genruntimeconfig.cache
+C:\Users\AR\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\net10.0\ref\ShutdownTimer.dll
+C:\Users\AR\source\repos\ShutdownTimer\ShutdownTimer\obj\Debug\net10.0\Shutdown.795F5F9D.Up2Date
